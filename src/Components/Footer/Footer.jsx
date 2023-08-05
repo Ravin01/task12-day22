@@ -8,9 +8,9 @@ const Footer = () => {
             alignItems : 'center',
             background : 'white',
             width : '100%',
-            height : '80px'
-        }}>
-<p>Copyright © Your Website 2021</p>
+            height : '80px' 
+        }}> 
+<p>Copyright © Your Website 2021</p> 
         </div>
     )
 }
